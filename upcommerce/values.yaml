@@ -3,6 +3,6 @@ imagePullPolicy: Always
 cpuLimit: "1"
 memoryLimit: "4Gi"
 upcommerce:
-  image: uonyeka/upcommerce:v3
+  image: uonyeka/canary:linux-amd64
 
 
